@@ -1,12 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://kyilwinoo007.io)
+
 <h1 align="center">Hi 👋, I'm Kyi Lwin Oo</h1>
-<h3 align="center">A passionate mobile developer from myanmar</h3>
+<h3 align="center">A passionate mobile developer from Myanmar</h3>
 <img align="right" alt="Coding" width="400" src = "https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyilwinoo007&label=Profile%20views&color=0e75b6&style=flat" alt="kyilwinoo007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyilwinoo007" alt="kyilwinoo007" /></a> </p>
 
 - 🌱 I’m currently learning **Swift, iOS**
 
