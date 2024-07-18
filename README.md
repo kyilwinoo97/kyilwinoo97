@@ -4,8 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=kyilwinoo97&color=7fff00)
 
-<h1 align="center">Hi 👋, I'm Kyi Lwin Oo</h1>
-<h3 align="center">A passionate mobile developer</h3>&nbsp;<br>
+# 🖐🏽 &nbsp;<b>Hi There! I'm Kyi Lwin Oo</b>
+
+<h3>I'm <b style="color: #7fff00">a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 5+ years of coding experience</b>.</h3> 
 
 - 🌱 I’m currently learning **Swift, iOS**
 
