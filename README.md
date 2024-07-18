@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kyilwinoo97?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/kyilwinoo97?logo=github&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;<br>
 
-![](https://komarev.com/ghpvc/?username=kyilwinoo97&color=7fff00)
+![](https://komarev.com/ghpvc/?username=kyilwinoo97&color=#7fff00&base=1000&style=flat-square)
 
 # 🖐🏽 &nbsp;<b>Hi There! I'm Kyi Lwin Oo</b>
 
