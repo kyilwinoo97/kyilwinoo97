@@ -1,4 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://kyilwinoo007.io)
+[![MasterHead]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=light)](https://www.linkedin.com/in/kokyi/) &nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/kyilwinoo97?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/kyilwinoo97?logo=github&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;<br>
+
 
 <h1 align="center">Hi 👋, I'm Kyi Lwin Oo</h1>
 <h3 align="center">A passionate mobile developer</h3>
