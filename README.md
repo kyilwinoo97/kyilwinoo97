@@ -2,14 +2,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/kyilwinoo97?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/kyilwinoo97?logo=github&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;<br>
 
-![](https://komarev.com/ghpvc/?username=YeLwinOo-Steve&color=7fff00)
+![](https://komarev.com/ghpvc/?username=kyilwinoo97&color=7fff00)
 
 <h1 align="center">Hi 👋, I'm Kyi Lwin Oo</h1>
 <h3 align="center">A passionate mobile developer</h3>
 <img align="right" alt="Coding" width="400" src = "https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyilwinoo97&label=Profile%20views&color=0e75b6&style=flat" alt="c" /> </p>
 
 - 🌱 I’m currently learning **Swift, iOS**
 
