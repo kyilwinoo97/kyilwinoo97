@@ -1,8 +1,8 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=f9c80e)](https://www.linkedin.com/in/kokyi/) &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/kyilwinoo97?logo=GitHub&style=for-the-badge&color=f9c80e)](https://github.com/kyilwinoo97) &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/kyilwinoo97?logo=github&style=for-the-badge&color=f9c80e)](https://github.com/kyilwinoo97) &nbsp;<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=7fff00)](https://www.linkedin.com/in/kokyi/) &nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/kyilwinoo97?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/kyilwinoo97?logo=github&style=for-the-badge&color=7fff00)](https://github.com/kyilwinoo97) &nbsp;<br>
 
-![](https://komarev.com/ghpvc/?username=kyilwinoo97&color=f9c80e)
+![](https://komarev.com/ghpvc/?username=kyilwinoo97&color=7fff00)
 
 # 🖐🏽 &nbsp;<b>Hi There! I'm Kyi Lwin Oo</b>
 
