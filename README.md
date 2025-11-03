@@ -8,8 +8,6 @@
 
 <h3>I'm <b style="color:#f9c80e">a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 5+ years of coding experience</b>.</h3> 
 
-- 🌱 I’m currently learning **Swift, iOS**
-
 - 💬 Ask me about **Android, Flutter, Kotlin, Java**
 
 - 📫 How to reach me **kyilwinoo.work@gmail.com**
@@ -22,8 +20,8 @@
 ![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyilwinoo97&theme=chartreuse_dark)
 
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyilwinoo97&theme=chartreuse_dark)&nbsp;&nbsp;
-&nbsp;
-![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyilwinoo97&theme=chartreuse_dark&utcOffset=8)
+&nbsp;w
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyilwinoo97&theme=chartreuse_dark&utcOffset=7)
 
 ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyilwinoo97&theme=chartreuse_dark)&nbsp;&nbsp;
 &nbsp;
